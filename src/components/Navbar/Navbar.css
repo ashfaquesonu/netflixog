@@ -1,0 +1,66 @@
+.navbar{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 30px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #111;
+}
+
+
+
+
+.logo{
+    position: fixed;
+    left: 20px;
+    width: 80px;
+
+}
+
+.avatar{
+    position: fixed;
+    right: 20px;
+    width: 30px;
+
+}
+.home{
+    margin-left: 60px;
+    list-style: none;
+    color: white;
+   
+}
+.home a {
+    text-decoration: none;
+  }
+
+  
+  .tv-show a {
+    color: #e5e5e5;
+    margin-right: 210px;
+    
+  }
+  
+  .tv-show a:hover {
+    text-decoration: underline;
+  }
+  .tv-show a {
+    text-decoration: none;
+  }
+  .tv-show {
+    list-style: none;
+  }
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
